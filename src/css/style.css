@@ -200,3 +200,70 @@ html {
   color: #1EACC7;
   margin: 0;
 }
+
+.possibility {
+  padding: 4.8rem 0 8rem 0;
+}
+.possibility .row {
+  margin-top: 1.1rem;
+}
+.possibility__title {
+  margin-top: 3.3rem;
+}
+.possibility__subheader {
+  margin-top: 0.1rem;
+  font-weight: 400;
+  font-size: 1.7rem;
+  line-height: 2.1rem;
+  color: #222;
+  text-align: center;
+}
+.possibility__item {
+  width: 32rem;
+  height: 28rem;
+  margin: 0 auto;
+  margin-top: 1.9rem;
+  padding: 8.8rem 0 0 0;
+  position: relative;
+}
+.possibility__item-subtitle {
+  font-weight: 400;
+  font-size: 2.4rem;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+}
+.possibility__item-plus {
+  position: absolute;
+  bottom: 3.4rem;
+  left: 50%;
+  transform: translate(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  border-radius: 50%;
+  width: 2.9rem;
+  height: 2.9rem;
+  margin: 0 auto;
+  padding: 0.6rem;
+  cursor: pointer;
+}
+.possibility__item_1 {
+  background: url("../img/card-1.jpg");
+}
+.possibility__item_2 {
+  background: url("../img/card-2.jpg");
+}
+.possibility__item_3 {
+  background: url("../img/card-3.jpg");
+}
+.possibility__item_4 {
+  background: url("../img/card-4.jpg");
+}
+.possibility__item_5 {
+  background: url("../img/card-5.jpg");
+}
+.possibility__item_6 {
+  background: url("../img/card-6.jpg");
+}
